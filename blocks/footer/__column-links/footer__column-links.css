@@ -3,4 +3,7 @@
   flex-direction: column;
   justify-content: center;
   margin-bottom: 15px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
